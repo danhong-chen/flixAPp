@@ -1,0 +1,6 @@
+framework module Pods_flisterAppTests {
+  umbrella header "Pods-flisterAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
