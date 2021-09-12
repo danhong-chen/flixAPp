@@ -1,4 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/30183177/132972278-9ecf9d1b-6f97-440a-ad1d-4d72dce02545.gif)
+
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
@@ -25,6 +25,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 ![](https://i.imgur.com/NlkQRLT.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/30183177/132972296-48847e9a-89dc-4b7e-a72b-2de7dd6e2ceb.gif)
 
 
 ### Notes
